@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "proton-hot-cli src/index.js"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "proton-hot-cli": "mischnic/proton-hot-cli"
+  },
+  "dependencies": {
+    "proton-native": "^1.1.8",
+    "react": "^16.4.1"
+  }
+}
