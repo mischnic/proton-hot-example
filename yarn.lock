@@ -2828,8 +2828,8 @@ prop-types@^15.6.0, prop-types@^15.6.1:
     object-assign "^4.1.1"
 
 proton-hot-cli@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/proton-hot-cli/-/proton-hot-cli-0.1.0.tgz#95207b2ebd11181dce89b079b386e713aa90df7b"
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/proton-hot-cli/-/proton-hot-cli-0.1.2.tgz#f17e25b4e80e96d45385afed0fbffdeee918beba"
   dependencies:
     "@mischnic/babel-plugin-proton-hot" "^1.0.0"
     babel-core "^6.26.3"
@@ -2842,8 +2842,8 @@ proton-hot-cli@^0.1.0:
     webpack-node-externals "^1.7.2"
 
 proton-native@^1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/proton-native/-/proton-native-1.1.8.tgz#dad126aa943d38ad8c8ae9f30b3e9fda3278972c"
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/proton-native/-/proton-native-1.1.9.tgz#5a4afa10d9c14ce61cc0fff2667e2f6a0ca6d297"
   dependencies:
     color "^3.0.0"
     fbjs "^0.8.16"
